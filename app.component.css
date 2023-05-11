@@ -1,0 +1,12 @@
+.First{
+    font-size: xx-large;
+    color: blue;
+    font-weight: bolder;
+}
+.second{
+    .First{
+        font-size: xx-large;
+        color: red;
+        font-weight: bolder;
+    }
+}
